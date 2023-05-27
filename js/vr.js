@@ -70,7 +70,7 @@ AC.VR.options = {
 
 	throwable: true,            // (boolean)  does the VR have inertia when releasing a grab?
 	minThrowDuration: 0.5,      // (number)   minimum throw duration in seconds
-	maxThrowDuration: 1.5,      // (number)   maximum throw duration in seconds
+	maxThrowDuration: 1.0,      // (number)   maximum throw duration in seconds
 
 	spinnable: true,            // (boolean)  add spinners to on axes marked as infinite?
 	minSpinDuration: 3,         // (number)   minimum time in seconds the VR will take to rotate 360 degrees
